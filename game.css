@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+div{
+    border: 10px solid black;
+    height: 180px;
+    width: 180px;
+    border-radius: 30px;
+}
+.box{
+    height: 440px;
+    width: 440px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+   border: 0;
+   justify-content: space-around;
+   align-content: space-around;
+   
+
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: teal;
+}
+.yellow{
+    background-color: yellow;
+}
+.white{
+    background-color: white;
+}
+.green2{
+    background-color: pink;
+}
